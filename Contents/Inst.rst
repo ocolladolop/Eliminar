@@ -36,7 +36,7 @@ Here is where qililab is going to be cloned from GitHub. To do that, execute the
 
     git clone https://github.com/qilimanjaro-tech/qililab.git
 
-To verify everything is going right if we type ``ls`` a new directory (**qililab**) should appear.
+To verify everything is going as planned, if we type ``ls`` a new directory (**qililab**) should appear.
 Let us enter this directory.
 ::
 
