@@ -14,3 +14,4 @@ These document will explain how to prepare you machine and install everything ne
 
    Contents/Pre
    Contents/Inst
+   Contents/Ver
