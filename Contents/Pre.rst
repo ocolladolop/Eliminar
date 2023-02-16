@@ -1,4 +1,4 @@
-Pre-Requirements test
+Pre-Requirements
 +++++++++++++++++++++
 
 Here are the essentials for installing and using qililab.
