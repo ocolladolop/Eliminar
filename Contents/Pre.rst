@@ -55,8 +55,6 @@ once created, open the file in any editor you want and add these lines:
 
 Do not copy directly these text, you may personalize the following lines:
 
-* Email
-* Name
 * ``userPC`` should be changed to the name of the user on the machine
 * ``userGit`` should be changed to de user name on your name account on GitHub
 * ``token`` should be changed to your particular token that lets access to your GitHub through your machine. This process is explained in the next section.
