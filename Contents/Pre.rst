@@ -60,7 +60,7 @@ Do not copy directly these text, you may personalize the following lines:
 * ``token`` should be changed to your particular token that lets access to your GitHub through your machine. This process is explained in the next section.
 
 .. note:: Invisible files
-    As an archive beginning with a ``.``, it will be invisible. To edit you can open it from the terminal, with ``code .gitconfig``
+    As an archive beginning with a ., it will be invisible. To edit you can open it from the terminal, with ``code .gitconfig``
 
 Tokens
 ======
