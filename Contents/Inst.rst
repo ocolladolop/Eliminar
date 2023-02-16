@@ -81,3 +81,5 @@ This command will install the library of the directory we are currently in (in o
     The ``-e`` will avoid making a copy of the current state of the library so that if any changes are made, when imported, those changes will be present.
 
 Compute ``pip freeze`` to verify all the libraries are being installed properly.
+
+Congratulations, you have succesfully installed **qililab**
