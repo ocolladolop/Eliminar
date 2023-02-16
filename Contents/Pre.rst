@@ -59,8 +59,8 @@ Do not copy directly these text, you may personalize the following lines:
 * ``userGit`` should be changed to de user name on your name account on GitHub
 * ``token`` should be changed to your particular token that lets access to your GitHub through your machine. This process is explained in the next section.
 
-.. note:: Invisible files
-    As an archive beginning with a ., it will be invisible. To edit you can open it from the terminal, with ``code .gitconfig``
+.. note::
+    If an archive begins with a ., it will be invisible. To edit you can open it from the terminal, with ``code .gitconfig``
 
 Tokens
 ======
