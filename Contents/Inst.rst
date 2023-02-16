@@ -10,7 +10,7 @@ Some basics on Linux
     The steps are going to be explained for a Unix environment, if your machine runs another operating system you may have to slightly change the commands.
 
 * ``ls`` shows what is in the directory you are currently at.
-* ``ls -a`` shows what is in the directory you are currently at, even the invisible ones.
+* ``ls -a`` shows what is in the directory you are currently at, even the invisible elements.
 * ``cd`` it is used to move in between directories, ``cd namedirectory`` goes to the directory *namedirectory*.
 * ``mkdir namedirectory`` creates a directory called namedirectory.
 * ``pip freeze`` shows the installed libraries.
