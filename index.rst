@@ -5,7 +5,7 @@
 
 Welcome to Get Started in Qililab!
 =====================================================
-These document will explain how to prepare you machine and install everything needed to start using qililab. Test
+These document will explain how to prepare you machine and install everything needed to start using qililab.
 
 .. toctree::
    :maxdepth: 2
