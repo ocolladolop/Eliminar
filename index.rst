@@ -7,8 +7,6 @@ Welcome to Get Started in Qililab!
 =====================================================
 These document will explain how to prepare you machine and install everything needed to start using qililab.
 
-He canviado esto para ver si lo puedo subir a modo de pull request
-
 .. toctree::
    :maxdepth: 2
    :hidden:
